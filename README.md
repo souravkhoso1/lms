@@ -13,6 +13,17 @@ We have created a web-based application to do leave management. PHP based MVC fr
  - Import 'leave.sql' to this new 'leave' database. Use the default settings.
  - Open 'http://localhost/leave' and explore the functionalities of LMS.
  
+# Credentials
+ - Admin account:<br>
+  **Username: admin1** <br>
+  **Password: 1234** <br>
+  **New admin account can also be created, if needed.**
+ - User account:<br>
+   **Create new one and use**
+ - HOD, UG/PG coordinator, Faculty Coordinator:<br>
+   **Username: hod_{cse|ee|me|ma|ph|ch|hss|bi}|ugpgcoordinator|facultycoordinator**<br>
+   **Password: 1234**
+ 
 # Credits
 
 It's Group 8's work :)
