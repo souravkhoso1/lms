@@ -90,18 +90,18 @@ CREATE TABLE IF NOT EXISTS `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `rollnumber`, `department`, `password`, `ml`, `cl`, `vl`, `role`) VALUES
-(2, 'Ramana', 'hod_cse', 'cse', '12345', NULL, NULL, NULL, 'hod'),
-(3, 'Atul Kumar', 'ugpgcoordinator', '', '1234', 0, 0, 0, 'ugpgcoordinator'),
+(2, 'Venkata Ramana Badarla', 'hod_cse', 'cse', '1234', NULL, NULL, NULL, 'hod'),
+(3, 'V. Hari Narayanan', 'ugpgcoordinator', '', '1234', 0, 0, 0, 'ugpgcoordinator'),
 (4, 'Ramana', 'ramana', 'cse', '1234', 0, 0, 0, 'faculty'),
-(5, 'Fulwani', 'facultycoordinator', '', '123', 0, 0, 0, 'facultycoordinator'),
+(5, 'Deepakkumar M. Fulwani', 'facultycoordinator', '', '1234', 0, 0, 0, 'facultycoordinator'),
 (7, 'admin1', 'admin1', '', '1234', 2, 0, 0, 'admin'),
-(8, 'AKT', 'hod_ee', 'ee', '1234', NULL, NULL, NULL, 'hod'),
+(8, 'Anil Kumar Tiwari', 'hod_ee', 'ee', '1234', NULL, NULL, NULL, 'hod'),
 (9, 'B. Ravindra', 'hod_me', 'me', '1234', NULL, NULL, NULL, 'hod'),
-(10, 'KKR', 'hod_ma', 'ma', '1234', NULL, NULL, NULL, 'hod'),
-(11, 'V. Narayanan', 'hod_ph', 'ph', '1234', NULL, NULL, NULL, 'hod'),
-(12, 'Rakesh Sharma', 'hod_ch', 'ch', '1234', NULL, NULL, NULL, 'hod'),
+(10, 'Kirankumar R. Hiremath', 'hod_ma', 'ma', '1234', NULL, NULL, NULL, 'hod'),
+(11, 'Subhashish Banerjee', 'hod_ph', 'ph', '1234', NULL, NULL, NULL, 'hod'),
+(12, 'Rakesh Kumar Sharma', 'hod_ch', 'ch', '1234', NULL, NULL, NULL, 'hod'),
 (13, 'Sushmita Jha', 'hod_bi', 'bi', '1234', NULL, NULL, NULL, 'hod'),
-(14, 'Vidya', 'hod_hss', 'hss', '1234', NULL, NULL, NULL, 'hod');
+(14, 'Vidya Sarveswaran', 'hod_hss', 'hss', '1234', NULL, NULL, NULL, 'hod');
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
